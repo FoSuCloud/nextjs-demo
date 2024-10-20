@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-* 分支a第三次变更
+* 新增了分支c
 ```bash
 yarn dev 
 ```
