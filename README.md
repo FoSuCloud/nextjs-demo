@@ -2,9 +2,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-* 改一下,分支a变更
+* 分支a第三次变更
 ```bash
-npm run dev 
+yarn dev 
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
