@@ -2,6 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+First, run the development server:
 * 改一下,分支a变更
 ```bash
 npm run dev 
