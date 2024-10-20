@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started a
 
-* 新增了分支c
+* 分支c 执行stash
 ```bash
 npm run dev
 ```
